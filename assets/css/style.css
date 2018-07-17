@@ -54,3 +54,8 @@ a:hover {
 a:active {
     color: blue;
 }
+
+h1 {
+    font-weight: bold;
+    font-size: 30px;
+}
