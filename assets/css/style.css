@@ -21,7 +21,7 @@ img{
     height: auto;
 }
 
-.first-box{
+img{
     border-style: solid;
     border-width: 2px;
     border-color: black;
@@ -40,8 +40,9 @@ img{
 .second-box{
     padding-top:10px;
 }
-
-.bottom {
+/* 
+footer {
+    clear: both;
     position: absolute;
     bottom: 0;
     padding:30px;
@@ -54,8 +55,19 @@ img{
     border-color:red;
     width: 100%;
 
-}
+} */
 
+footer{
+    background-color:black;
+    color:white;
+    font-size: 20px;
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    border-color:red;
+    padding:30px;
+
+}
 a:link {
     color: red;
 }
