@@ -1,6 +1,6 @@
 .navbar{
-    padding: 20px;
-    color: whitesmoke;
+    padding: 10px;
+    color: rgb(221, 201, 201);
     background-color:red;
     text-align: center;
     font-size: 50px;
@@ -16,12 +16,12 @@
     font-size: 50px;
 }
 
-img{
+#face {
     width: 70%;
     height: auto;
 }
 
-img{
+#face {
     border-style: solid;
     border-width: 2px;
     border-color: black;
